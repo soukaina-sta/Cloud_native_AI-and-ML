@@ -1,4 +1,13 @@
 # Cloud_native_AI-and-ML
 This folder contains my assignment on Cloud Native AI. 
 
-Feel free to explore the content and code in this folder!!
+# Assignment Contents
+Stroke_prediction: This Jupyter Notebook contains the code and analysis (ML models ) for the assignment.
+
+dataset : This directory contains the datasets used. The dataset chosen for this assignment is focused on predicting strokes in individuals.
+          The link : https://www.kaggle.com/code/gauranggupta123/stroke-prediction
+
+
+prediction_app/: This directory includes the code and files for creating an application that predicts if a person have a stroke  or.
+
+
