@@ -1,0 +1,84 @@
+/* Styles pour le formulaire */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+#wrap {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 0px #000000;
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+.frame2 {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.login {
+    text-align: center;
+}
+
+.entryForm {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+.entryForm th, .entryForm td {
+    padding: 10px;
+    text-align: left;
+}
+
+.entryForm th {
+    width: 30%;
+    font-weight: bold;
+    color: #333;
+}
+
+.entryForm input[type="text"],
+.entryForm select,
+.entryForm input[type="radio"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.btns {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.btn {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn-clear {
+    background-color: #ccc;
+}
+
+/* Style pour le message de prédiction */
+.prediction-text {
+    margin-top: 20px;
+    text-align: center;
+    font-weight: bold;
+    color: #007bff;
+}
